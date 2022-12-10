@@ -1,0 +1,70 @@
+[debug] [2022-12-10T18:20:10.660Z] ----------------------------------------------------------------------
+[debug] [2022-12-10T18:20:10.662Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Marko.LAPTOP-ROMFRFNN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-10T18:20:10.663Z] CLI Version:   11.17.0
+[debug] [2022-12-10T18:20:10.663Z] Platform:      win32
+[debug] [2022-12-10T18:20:10.663Z] Node Version:  v16.17.0
+[debug] [2022-12-10T18:20:10.664Z] Time:          Sat Dec 10 2022 20:20:10 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-10T18:20:10.664Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-10T18:20:10.671Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-10T18:20:10.671Z] > authorizing via signed-in user (sulkunen.marko@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Marko.LAPTOP-ROMFRFNN\Documents\Tamk\FullStack2022\Project\movie-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-12-10T18:22:37.973Z] ----------------------------------------------------------------------
+[debug] [2022-12-10T18:22:37.975Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Marko.LAPTOP-ROMFRFNN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-10T18:22:37.975Z] CLI Version:   11.17.0
+[debug] [2022-12-10T18:22:37.975Z] Platform:      win32
+[debug] [2022-12-10T18:22:37.975Z] Node Version:  v16.17.0
+[debug] [2022-12-10T18:22:37.976Z] Time:          Sat Dec 10 2022 20:22:37 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-10T18:22:37.977Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-10T18:22:37.987Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-10T18:22:37.987Z] > authorizing via signed-in user (sulkunen.marko@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Marko.LAPTOP-ROMFRFNN\Documents\Tamk\FullStack2022\Project\movie-app
+
+[debug] [2022-12-10T18:26:36.891Z] ----------------------------------------------------------------------
+[debug] [2022-12-10T18:26:36.892Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Marko.LAPTOP-ROMFRFNN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-10T18:26:36.893Z] CLI Version:   11.17.0
+[debug] [2022-12-10T18:26:36.893Z] Platform:      win32
+[debug] [2022-12-10T18:26:36.893Z] Node Version:  v16.17.0
+[debug] [2022-12-10T18:26:36.894Z] Time:          Sat Dec 10 2022 20:26:36 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-12-10T18:26:36.894Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-10T18:26:36.902Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-10T18:26:36.903Z] > authorizing via signed-in user (sulkunen.marko@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Marko.LAPTOP-ROMFRFNN\Documents\Tamk\FullStack2022\Project\movie-app
+
