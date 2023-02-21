@@ -1,3 +1,33 @@
+
+
+# MovieApp
+
+A React application where the logged-in user can browse, add movies to firebase database and save them to the watch list.
+
+![image](https://user-images.githubusercontent.com/112402293/220426571-dc521901-37c2-42fb-a2d0-413aec06f179.png)
+
+
+
+Navigation map:
+
+![image](https://user-images.githubusercontent.com/112402293/220426308-51d17c5c-da9a-4b46-b72d-3f59964ab5f6.png)
+
+
+Structure diagram:
+
+![image](https://user-images.githubusercontent.com/112402293/220426416-dbbe84f5-bf18-493d-82b5-46c6f63d440b.png)
+
+
+Use case diagram:
+
+![image](https://user-images.githubusercontent.com/112402293/220426513-d1de47d6-c72d-49e9-915d-8d07b5cc619a.png)
+
+
+
+----------------------------------------------------------------
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +98,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
