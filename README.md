@@ -2,7 +2,7 @@
 
 # MovieApp
 
-A React application where the logged-in user can browse, add movies to firebase database and save them to the watch list.
+React application where the logged-in user can browse, add movies to firebase database and save them to the watch list.
 
 ![image](https://user-images.githubusercontent.com/112402293/220426571-dc521901-37c2-42fb-a2d0-413aec06f179.png)
 
